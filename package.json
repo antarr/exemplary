@@ -3,6 +3,11 @@
   "displayName": "exemplary",
   "description": "View .example files",
   "version": "0.0.1",
+  "publisher": "antarr",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antarr/exemplary"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
